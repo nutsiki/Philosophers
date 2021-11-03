@@ -15,6 +15,7 @@ int init_philo(t_scene *scene)
 		scene->philo[i].time_is_sleeping = 0;
 		scene->philo[i].time_is_thinking = 0;
 		scene->philo[i].time_is_dead = 0;
+		scene->philo[i].index = i;
 		i++;
 	}
 	return (0);

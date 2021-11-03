@@ -14,6 +14,7 @@ typedef struct s_philo
 	int time_is_sleeping;
 	int time_is_thinking;
 	int time_is_dead;
+	int index;
 	pthread_t	thread_philo;
 }		t_philo;
 
