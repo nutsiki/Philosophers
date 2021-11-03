@@ -4,7 +4,7 @@ CC = gcc
 
 CFLAGS = -Wall -Wextra -Werror
 
-SRC = main.c
+SRC = main.c ft_atoi.c init.c
 
 OBJS = $(SRC:.c=.o)
 
