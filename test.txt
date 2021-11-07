@@ -1,0 +1,76 @@
+1636220879158 1 has taken a fork left
+1636220879158 1 has taken a fork right
+1636220879157 1 is eating
+1636220879182 1 is sleeping
+1636220879158 2 has taken a fork left
+1636220879158 2 has taken a fork right
+1636220879157 2 is eating
+1636220879204 1 is thinking
+1636220879204 2 is sleeping
+1636220879204 1 has taken a fork left
+1636220879204 1 has taken a fork right
+1636220879182 1 is eating
+1636220879229 2 is thinking
+1636220879229 1 is sleeping
+1636220879229 2 has taken a fork left
+1636220879229 2 has taken a fork right
+1636220879204 2 is eating
+1636220879253 1 is thinking
+1636220879253 2 is sleeping
+1636220879253 1 has taken a fork left
+1636220879253 1 has taken a fork right
+1636220879229 1 is eating
+1636220879278 2 is thinking
+1636220879278 1 is sleeping
+1636220879278 2 has taken a fork left
+1636220879278 2 has taken a fork right
+1636220879253 2 is eating
+1636220879302 1 is thinking
+1636220879302 2 is sleeping
+1636220879302 1 has taken a fork left
+1636220879302 1 has taken a fork right
+1636220879278 1 is eating
+1636220879323 2 is thinking
+1636220879323 1 is sleeping
+1636220879323 2 has taken a fork left
+1636220879323 2 has taken a fork right
+1636220879302 2 is eating
+1636220879347 1 is thinking
+1636220879347 2 is sleeping
+1636220879347 1 has taken a fork left
+1636220879347 1 has taken a fork right
+1636220879323 1 is eating
+1636220879371 2 is thinking
+1636220879371 2 has taken a fork left
+1636220879371 2 has taken a fork right
+1636220879347 2 is eating
+1636220879371 1 is sleeping
+1636220879391 2 is sleeping
+1636220879391 1 is thinking
+1636220879391 1 has taken a fork left
+1636220879391 1 has taken a fork right
+1636220879371 1 is eating
+1636220879416 2 is thinking
+1636220879416 1 is sleeping
+1636220879416 2 has taken a fork left
+1636220879416 2 has taken a fork right
+1636220879391 2 is eating
+1636220879440 1 is thinking
+1636220879440 2 is sleeping
+1636220879440 1 has taken a fork left
+1636220879440 1 has taken a fork right
+1636220879416 1 is eating
+1636220879460 1 is sleeping
+1636220879462 2 is thinking
+1636220879462 2 has taken a fork left
+1636220879462 2 has taken a fork right
+1636220879440 2 is eating
+1636220879481 1 is thinking
+1636220879485 2 is sleeping
+1636220879481 1 has taken a fork left
+1636220879481 1 has taken a fork right
+1636220879460 1 is eating
+1636220879507 2 is thinking
+1636220879507 2 has taken a fork left
+1636220879507 2 has taken a fork right
+1636220879485 2 is eating
